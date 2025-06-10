@@ -1,0 +1,12 @@
+[submodule "portfolio-frontend"]
+	path = portfolio-frontend
+	url = https://github.com/taiiii123/portfolio-frontend.git
+[submodule "portfolio-backend"]
+	path = portfolio-backend
+	url = https://github.com/taiiii123/portfolio-backend.git
+[submodule "email-dispatch-lambda"]
+	path = email-dispatch-lambda
+	url = https://github.com/taiiii123/email-dispatch-lambda.git
+[submodule "portfolio-database"]
+	path = portfolio-database
+	url = https://github.com/taiiii123/portfolio-database.git
