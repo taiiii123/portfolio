@@ -2,7 +2,7 @@
 
 # 📖Taiki Note
 
-私が作成したポートフォリオ & ブログサイトです。
+私が作成したポートフォリオ & ブログサイトです。<br>
 https://release.dxteineyxq92b.amplifyapp.com/
 
 # 🌟主な機能
