@@ -3,7 +3,7 @@
 # 📖Taiki Note
 
 私が作成したポートフォリオ & ブログサイトです。<br>
-https://release.dxteineyxq92b.amplifyapp.com/
+https://taiki-note.net
 
 # 🌟主な機能
 
